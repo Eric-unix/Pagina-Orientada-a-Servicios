@@ -17,9 +17,9 @@
 <header>
         <div class="contenedor">
             <nav class="menu">
-                <a href="#" id="btn-acerca-de">Inicio</a>
-                <a href="#" id="btn-menu">Quienes somos</a>
-                <a href="#" id="btn-galeria">Contacto</a>
+                <a href="#" id="">Inicio</a>
+                <a href="#" id="btn-acerca-de">Quienes somos</a>
+                <a href="#" id="btn-ubicacion">Contacto</a>
                 <a href="#" id="btn-ubicacion">Saber mas</a>
             </nav>
     
@@ -39,51 +39,43 @@
                 </div>
                 <article>
                     <h3>Acerca de</h3>
-                    <p>En este cafe, tratamos de tener la mayor atencion hacia nuestros clientes, haciendo que se sienten comodos cada vez nos visitan</p>
-                    
-                    <p>Tenemos una carta con gran variedad de alimenos y bebidas. ven y escoge  las que sea de tu agrado. Igual puedes venir con tus amigos y familia para pasar un buen rato o incluso tu solo, para poder disfrutar de rico cafe.
-                    </p>
+                    <p>En esta pagina se ofrecen diferentes tipos de servicios medico que se puedan requerir en una emergencia o en cualquier situacion.</p>
                 </article>
             </div>
         </section>
 
         <section class="menu">
             <div class="contenedor">
-                <h3 class="titulo" id="platillos">Menu</h3>
+                <h3 class="titulo" id="platillos">Descripcion</h3>
                 <div class="contenedor-menu">
                     <div class="contenedor-menu2">
                         <article>
-                            <p class="categoria">De comer</p>
+                            <p class="categoria"></p>
                             <div class="platillo">
-                                <p class="nombre">Molletes</p>
-                                <p class="precio">$15</p>
-                                <p class="descripcion">baguette con frijoles, queso orgánico, salsa y ‘pico de gallo’.</p>
+                                <p class="nombre">Medico General</p>
+                                <p class="precio">El médico general es el profesional de la medicina que cuenta con los conocimientos y las destrezas necesarias para diagnosticar y resolver con tratamiento medico y con procedimientos sencillos la mayoría de los padecimientos que el ser humano sufre en su vida, desde niño hasta la vejez, con acciones frecuentemente realizadas en el consultorio del medico o en la casa del enfermo.</p>
                             </div>
 
                             <div class="platillo">
-                                <p class="nombre">Baguette</p>
-                                <p class="precio">$18</p>
-                                <p class="descripcion">Jamón serrano, queso brie, mostaza dijon, aguacate, lechuga y aceite oliva</p>
+                                <p class="nombre">Medico Cirujano</p>
+                                <p class="precio">El Médico Cirujano es un profesional formado para ofrecer servicios de medicina general de alta calidad, capaz de atender integralmente, tanto desde el punto de vista individual, familiar o comunitario las necesidades de promoción, prevención, recuperación y/o rehabilitación de la salud.</p>
                             </div>
 
                             <div class="platillo">
-                                <p class="nombre">Croissan</p>
-                                <p class="precio">$20</p>
-                                <p class="descripcion">Jamón de pavo, queso orgánico, lechuga y jitomate.</p>
+                                <p class="nombre">Medico Pediatra</p>
+                                <p class="precio">Médico que tiene una formación especial para prevenir, diagnosticar y tratar enfermedades y lesiones en los niños. Los pediatras también ayudan a tratar otros problemas que afectan a los niños.</p>
                             </div>
 
                             <div class="platillo">
-                                <p class="nombre">Sanwitch</p>
-                                <p class="precio">$35</p>
-                                <p class="descripcion">jamón de pavo, panela, tomate, lechuga y mayonesa chipotle,</p>
+                                <p class="nombre">Enfermera</p>
+                                <p class="precio">La enfermería es la ciencia que se dedica al cuidado y atención de enfermos y heridos, así como a otras tareas de asistencia sanitarias, clínicas y a la promoción y prevención de la salud.</p>
                             </div>
                         </article>
                         <article>
-                            <p class="categoria">De tomar</p>
+                            <p class="categoria"></p>
                             <div class="platillo">
-                                <p class="nombre">latte</p>
-                                <p class="precio">$15</p>
-                                <p class="descripcion">Sabores disponibles: Vainilla, Caramelo, Mocha (eliga el de su preferencia)</p>
+                                <p class="nombre">Medico Familiar</p>
+                                <p class="precio">Este especialista, proporciona cuidado y atención permanente e integral a las personas y sus familias, teniendo en cuenta los componentes psicológicos, biológicos, laborales, familiares y sociales de cada persona.</p>
                             </div>
 
                             <div class="platillo">
